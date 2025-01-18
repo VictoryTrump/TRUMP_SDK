@@ -1,0 +1,6 @@
+// src/config/aiAgentConfig.json
+{
+  "personality": "strategic",
+  "responseTiming": "fast",
+  "predictiveModel": true
+}
