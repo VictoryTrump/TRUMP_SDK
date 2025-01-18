@@ -1,0 +1,16 @@
+{
+  "name": "victoryTrump-AI-Agent-Integration",
+  "version": "1.0.0",
+  "description": "Integration of VictoryTrump with AI Agent for decision-making",
+  "main": "src/victoryTrump.js",
+  "scripts": {
+    "start": "node src/victoryTrump.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^28.0.0"
+  },
+  "devDependencies": {},
+  "author": "victoryTrump-AI-Agent-Integration",
+  "license": "MIT"
+}
