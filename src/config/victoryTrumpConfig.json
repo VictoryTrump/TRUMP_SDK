@@ -1,0 +1,6 @@
+// src/config/victoryTrumpConfig.json
+{
+  "leaderName": "VictoryTrump",
+  "startingYear": 2024,
+  "strategy": "domination"
+}
